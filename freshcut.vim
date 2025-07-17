@@ -105,3 +105,6 @@ let g:colors_name = "FreshCut Contrast"
 let colors_name   = "FreshCut Contrast"
 
 " Language specific highlights
+
+" MATLAB
+hi matlabFunction guibg=bg  guifg=#bbddff
