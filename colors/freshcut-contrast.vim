@@ -82,7 +82,7 @@ hi Typedef    guibg=bg   guifg=#4ECDC4    ctermbg=bg  ctermfg=10
 hi Special    guibg=bg   guifg=#bbddff      ctermbg=1   ctermfg=15
 hi SpecialChar    guibg=bg   guifg=#bbddff      ctermbg=1   ctermfg=15
 hi Tag        guibg=bg   guifg=#bbddff      ctermbg=1   ctermfg=15
-hi Delimiter      guibg=bg   guifg=fg       ctermbg=1   ctermfg=fg
+hi Delimiter      guibg=bg   guifg=#C8D7E8      ctermbg=1   ctermfg=fg
 hi SpecialComment guibg=#334455  guifg=#939da8    ctermbg=1   ctermfg=15
 hi Debug      guibg=bg   guifg=#ff9999  gui=none    ctermbg=8   ctermfg=12
 
