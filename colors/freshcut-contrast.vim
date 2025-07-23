@@ -15,7 +15,8 @@ syntax reset
 " Colors for the User Interface.
 
 hi Cursor      guibg=#cc4455  guifg=white     ctermbg=4 ctermfg=15
-hi Cursorline  guibg=bg
+hi Cursorline  guibg=bg cterm=none term=none
+hi CursorLineNr guibg=#151515 guifg=#ffffff cterm=none term=none
 hi link CursorIM Cursor
 hi Normal      guibg=#000000  guifg=#F8F8F2    gui=none ctermbg=0 ctermfg=15
 hi NonText     guibg=bg  guifg=#F8F8F2   ctermbg=8 ctermfg=14
