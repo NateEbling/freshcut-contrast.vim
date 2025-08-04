@@ -109,6 +109,9 @@ let colors_name   = "FreshCut Contrast"
 
 " MATLAB
 hi matlabFunction guibg=bg  guifg=#bbddff
+hi octaveSetVar guibg=bg guifg=#4ECDC4
+hi octaveFunction guibg=bg guifg=#4ECDC4
+hi octaveBeginKeyword guibg=bg guifg=#AEE239
 
 " Odin
 hi odinFunctionDecl guibg=bg guifg=#AEE239
