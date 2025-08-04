@@ -92,7 +92,7 @@ hi Underlined guibg=bg guifg=#99ccff gui=underline ctermbg=bg ctermfg=9 cterm=un
 hi Title    guibg=bg  guifg=#F8F8F2        ctermbg=1   ctermfg=15
 hi Ignore   guibg=bg       guifg=#cccccc    ctermbg=bg  ctermfg=8
 hi Error    guibg=#ff0000  guifg=white        ctermbg=12  ctermfg=15
-hi Todo     guibg=#556677  guifg=#ff0000      ctermbg=1   ctermfg=12
+hi Todo     guibg=bg  guifg=#ff0000      ctermbg=1   ctermfg=12
 
 hi htmlH2 guibg=bg guifg=fg  ctermbg=8 ctermfg=fg
 hi link htmlH3 htmlH2
